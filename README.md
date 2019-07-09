@@ -23,6 +23,8 @@ All implementations pass successfully from 42's testing suite.
     * Are two strings anagrams
   * print_doublon
     * Find intersection from two arrays
+  * equation
+    * Solve and print solutions to input
 * **Level 1**
   * count_alpha
     * Print occurrence of each character in string
@@ -50,6 +52,8 @@ All implementations pass successfully from 42's testing suite.
     * Dynamic programing problem
   * width_tree
     * Find width of b-tree
+  * perimeter
+    * Print perimeter of b-tree
 * **Level 4**
   * intersection
     * Determine if two linked lists intersect
